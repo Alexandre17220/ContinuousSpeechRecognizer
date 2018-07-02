@@ -1,0 +1,35 @@
+{
+  "name": "ContinuousSpeechRecognizer",
+  "version": "1.0.0",
+  "description": "Recognizes speech input",
+  "cordova": {
+    "id": "com.latin.continuoussr",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexandre17220/ContinuousSpeechRecognizer.git"
+  },
+  "keywords": [
+    "cordova",
+    "speech",
+    "recognizer",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexandre17220/ContinuousSpeechRecognizer"
+  },
+  "homepage": "ttps://github.com/Alexandre17220/ContinuousSpeechRecognizer#readme"
+}
